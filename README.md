@@ -1,3 +1,3 @@
 # App Financas Pessoal
- Site com Striamlit de Finanças Pessoal, com poucas linhas de código mais bem bonito e direto ao ponto.
+ Site com Streamlit de Finanças Pessoal, com poucas linhas de código mais bem bonito e direto ao ponto.
 
